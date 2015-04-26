@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-hahahahahahccvnxcnvlkxn
->>>>>>> parent of 3d01caf... Revert "到此一游3.0"
+﻿the first commit
