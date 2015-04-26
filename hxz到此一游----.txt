@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿lkdhgashgojsd
-=======
-﻿the first commit
->>>>>>> parent of 5d05a41... the second
+﻿7777777777777777777777777
